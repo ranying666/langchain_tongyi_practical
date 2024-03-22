@@ -62,7 +62,7 @@ DashScope灵积模型服务建立在“模型即服务”（Model-as-a-Service�
 
 ## 整体流程概述
 
-![image.png](images\p695626.png)
+![image.png](images/p695626.png)
 
 
 
